@@ -1,0 +1,40 @@
+* =========================================
+* DEBYE TECHNIC THERMAL ANALYSIS SYSTEMS
+* Device: IC210 Isoperibol Calorimeter
+* Date: 2026-07-16
+* Sample ID: Benzoic_Acid_Std
+* Sample Mass (g): 0.9845
+* Test Standard: ASTM D240
+* =========================================
+Time(s),Vessel_Temp(C),Jacket_Temp(C),Phase
+0,25.1012,25.0001,Pre-Period
+10,25.1021,25.0001,Pre-Period
+20,25.1038,25.0002,Pre-Period
+30,25.1051,25.0001,Pre-Period
+40,25.1065,25.0001,Pre-Period
+50,25.1082,25.0002,Pre-Period
+60,25.1105,25.0001,Firing
+70,25.4503,25.0001,Main-Period
+80,26.1208,25.0002,Main-Period
+90,26.8504,25.0001,Main-Period
+100,27.2109,25.0001,Main-Period
+110,27.4502,25.0002,Main-Period
+120,27.5204,25.0001,Main-Period
+130,27.5158,25.0002,Main-Period
+140,27.5101,25.0001,Main-Period
+150,27.5024,25.0001,Main-Period
+160,27.4957,25.0001,Main-Period
+170,27.4882,25.0002,Main-Period
+180,27.4815,25.0001,Main-Period
+190,27.4741,25.0001,Main-Period
+200,27.4658,25.0002,Main-Period
+210,27.4582,25.0001,Post-Period
+220,27.4501,25.0001,Post-Period
+230,27.4435,25.0002,Post-Period
+240,27.4362,25.0001,Post-Period
+250,27.4298,25.0001,Post-Period
+260,27.4221,25.0002,Post-Period
+270,27.4154,25.0001,Post-Period
+280,27.4082,25.0001,Post-Period
+290,27.4015,25.0002,Post-Period
+300,27.3951,25.0001,Post-Period
