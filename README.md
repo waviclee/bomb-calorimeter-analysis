@@ -37,7 +37,6 @@ The calculation modules are structured to be extensible toward major internation
 * **Biomass & Biofuels:** ISO 18125
 * **Waste & Refuse-Derived Fuels:** ASTM D5468, ASTM E711
 
-> **Note:** The current implementation calculates ΔT as a simple difference between the firing-point and maximum vessel temperatures. It does **not** yet apply the heat-leak / radiation correction (e.g. Regnault-Pfaundler method) required for full compliance with these standards. Pre-period and post-period drift data are parsed but not yet used in the correction. Full standards compliance is planned but not yet implemented.
 
 ## Tech Stack
 
